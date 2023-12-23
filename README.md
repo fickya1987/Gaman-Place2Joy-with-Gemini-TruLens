@@ -2,8 +2,6 @@
 
 ![place2joytext](https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/062f2294-37bc-4bad-a05f-33327b05ad92)
 
-THERE IS ALWAYS A PLACE FOR YOU!
-
 ![place2joy](https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/f25da6f7-4d03-4ed6-b3b1-b65a815922e5)
 
 Place2Joy AI is a Social Commerce App which enabling you to find business places and matching those places with your needs and activities. 
