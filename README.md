@@ -14,4 +14,8 @@ In feature 2, our AI will be facilitating you to look for all opportunities whic
 
 ![place2joy02](https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/9baa583e-1048-4062-967e-13746f443da4)
 
+https://clipchamp.com/watch/bymiMsdrrJY
+
+
+
 
