@@ -14,15 +14,26 @@ In feature 2, our AI will be facilitating you to look for all opportunities whic
 
 ![place2joy02](https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/9baa583e-1048-4062-967e-13746f443da4)
 
+UI & UX from Place2Joy AI
 
 https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/8e2851cc-a510-4031-a0b8-eb6d2e5535ed
 
+Feature 01: AI ChatBot Review Section 
 
 https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/b7ed5bbf-5638-430b-b02e-12c7c4b7f359
 
 
+Feature 01: AI ChatBot Phots Directory Section
+
 https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/a33de682-c8fb-4b44-a854-4e9b0e5d96e4
 
+Place2Joy AI Notebook with Gemini + Llamaindex + TruLens + Vertex AI
 
 https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/e4722a32-fee3-443b-be25-0c4591daa050
+
+Feature 02: Searching For Opportunities
+
+https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/847fc72e-cf16-4862-9f50-88cc515ff1d3
+
+
 
