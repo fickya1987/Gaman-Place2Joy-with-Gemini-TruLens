@@ -13,9 +13,9 @@ In feature 2, our AI will be facilitating you to look for all opportunities whic
 
 ![place2joy02](https://github.com/fickya1987/Gaman-Place2Joy-with-Gemini-TruLens/assets/89722540/9baa583e-1048-4062-967e-13746f443da4)
 
-If you want to try the demo, go to: www.gamangvyos.com. You can click chatbot menu in bottom right side of the Web.
+If you want to try the web demo, go to: www.gamangvyos.com.
 
-If you still find the difficulty to try the web, please click: https://creator.voiceflow.com/prototype/6581b81e227e501174348c58
+If you want to try the AI ChatBot in Place2Joy AI, please click: https://creator.voiceflow.com/prototype/6581b81e227e501174348c58
 
 
 
